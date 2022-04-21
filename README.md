@@ -1,4 +1,4 @@
-# PowerBI-project
+# PowerBI-project with Python preprocessing
 Visualizing pokemon data for project using PowerBI
 
 
