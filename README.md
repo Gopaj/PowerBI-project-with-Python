@@ -1,5 +1,5 @@
 # PowerBI-project with Python preprocessing
-Visualizing pokemon data for project using PowerBI
+PowerBI & Python - Visualizing pokemon data for project using PowerBI
 
 
 The PowerBI gets data from csv files in the data folder, as well as images from the images.rar. 
